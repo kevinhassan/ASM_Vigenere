@@ -13,5 +13,5 @@ Encrypt work only with **uppercase character and no space in the key**
 
 **Text files need to be in program's root**
 
-###By Kévin Hassan:copyright: 2015-2016 :octopus: :heart: :fire:
+#####By Kévin Hassan:copyright: 2015-2016 :octopus: :heart: :fire:
 
